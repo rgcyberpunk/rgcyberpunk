@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @rgcyberpunk
-- 👀 I’m interested in:Programming + Hacking
-- 🌱 I’m currently learning :Destroying corrupt GOV
-- 💞️ I’m looking to collaborate on:Cybersec Hacking
-- 📫 How to reach me :RGcyberpunk@protonmail.com
+# Sample Hardhat Project
 
-<!---
-rgcyberpunk/rgcyberpunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
